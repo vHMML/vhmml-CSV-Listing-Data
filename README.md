@@ -64,7 +64,7 @@ Then Login. From the Dashboard click FILES in the upper right and create a “vh
 
 ![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/pa_files_new_dir.PNG "New Directory")
 
-Change to the new vhmml directory and click the yellow “Upload a file” button to upload the Python script.
+Change to the new vhmml directory and click the yellow “Upload a file” button to upload the Table Results Data JSON File.
 
 ![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/pa_upload_file.PNG "Upload file")
 
