@@ -8,6 +8,8 @@ We have placed a [full metadata schema](https://www.vhmml.org/dataPortal/schema)
 
 HMML has uploaded sample digital humanities projects using metadata from vHMML Reading Room on its digital humanities resource site [vHMML DH](https://www.vhmmldh.org/).
 
+![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/vhmml_data_portal.PNG "vHMML Data Portal")
+
 # Downloading Metadata From vHMML Data Portal
 
 One of the tools you can utilize to work with your vHMML JSON datasets, is this Python script to convert your downloaded JSON Listing data into a CSV file.
