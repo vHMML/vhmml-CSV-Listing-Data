@@ -14,17 +14,17 @@ HMML has uploaded sample digital humanities projects using metadata from vHMML R
 
 One of the tools you can utilize to work with your vHMML JSON datasets, is this Python script to convert your downloaded JSON Listing data into a CSV file.
 
-Don’t know Python? Don’t worry, you don’t have to! The nice thing about Python is that it is already installed on a Mac. But, if you don’t have a Mac, you can use a service like [Pythonanywhere](https://www.pythonanywhere.com) to run the program instead. 
+Don’t know Python? Don’t worry, you don’t have to! The nice thing about Python is that it is already installed on a Mac. But, if you don’t have a Mac, you can use a service like [PythonAnywhere](https://www.pythonanywhere.com) to run the program instead. 
 
 To start, perform your search in the Data Portal.
 
 ![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/vhmml_dp_search.PNG "Search")
   
-Click the Export Results Table button to download your data.
+Click the Export Table Search Data button to download your data.
 
 ![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/vhmml_dp_export.PNG "Export")
   
-Say yes to download.
+Say Yes to download.
 
 ![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/vhmml_dp_export_confirm.PNG "Confirm")
 
