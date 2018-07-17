@@ -62,11 +62,18 @@ This should be what your PythonAnywhere will look like. The Dataset JSON and Pyt
 
 From here, click the “Open Bash console here” link. This will open something that looks and acts like terminal.
 
+![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/pa_bash_run_program.PNG "Bash Command line")
+
 You can run “ls” to “list” your files. Or run the program with “python vhmmlCSVfromListingData.py XXXXX.json”
 
 After the file has been converted, click the hamburger menu and choose Files.
 
+![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/pa_view_files.PNG "Files menu")
+![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/pa_files_nav_dir.PNG "Navigate files")
+
 Navigate to your files, and download your new CSV file using the download icon.
+
+![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/pa_files_download_csv.PNG "Download CSV")
 
 # Open in Excel.
 
