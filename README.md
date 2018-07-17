@@ -71,3 +71,5 @@ Navigate to your files, and download your new CSV file using the download icon.
 # Open in Excel.
 
 Note that you should read the open in CSV to EXCEL guide to understand unicode and Excel.
+
+![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/pa_view_excel.PNG "View Excel")
