@@ -46,19 +46,31 @@ If you don’t have a Mac, or want to run your Python script in the cloud, you c
 
 First create an account at pythonanywhere.
 
+![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/pa_create_account.PNG "Create account")
+
 Then Login. From the Dashboard click FILES in the upper right and create a “vhmml” directory (yellow input box).
 
+![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/pa_files_new_dir.PNG "New Directory")
+
 Change to the new vhmml directory and click the yellow “Upload a file” button to upload the Python script.
+
+![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/pa_upload_file.PNG "Upload file")
 
 From here you can upload the Python script you downloaded from Github (https://github.com/vHMML/vhmml-CSV-Listing-Data)
 
 Or, you can instead clone the Python script. From the bash command line run: git clone https://github.com/vHMML/vhmml-CSV-Listing-Data.git 
 
+![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/pa_git_clone.PNG "Git Clone")
+
 This will close the GitHub repository from vHMML onto your PythonAnywhere account.
 
 Then click the yellow “Upload a file” button to upload your vHMML downloaded dataset.
 
+![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/pa_upload_python_file.PNG "Upload")
+
 This should be what your PythonAnywhere will look like. The Dataset JSON and Python program in the same folder.
+
+![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/pa_files_uploaded_open_bash.PNG "Files uploaded")
 
 From here, click the “Open Bash console here” link. This will open something that looks and acts like terminal.
 
