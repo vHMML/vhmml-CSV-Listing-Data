@@ -70,15 +70,13 @@ Change to the new vhmml directory and click the yellow “Upload a file” butto
 
 From here you can upload the Python script you downloaded from Github (https://github.com/vHMML/vhmml-CSV-Listing-Data)
 
+![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/pa_upload_python_file.PNG "Upload")
+
 Or, you can instead clone the Python script. From the bash command line run: git clone https://github.com/vHMML/vhmml-CSV-Listing-Data.git 
 
 ![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/pa_git_clone.PNG "Git Clone")
 
 This will close the GitHub repository from vHMML onto your PythonAnywhere account.
-
-Then click the yellow “Upload a file” button to upload your vHMML downloaded dataset.
-
-![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/pa_upload_python_file.PNG "Upload")
 
 This should be what your PythonAnywhere will look like. The Dataset JSON and Python program in the same folder.
 
