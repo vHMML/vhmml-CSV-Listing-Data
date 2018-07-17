@@ -18,15 +18,15 @@ Don’t know Python? Don’t worry, you don’t have to! The nice thing about Py
 
 To start, perform your search in the Data Portal.
 
-<<image>>
+![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/vhmml_dp_search.PNG "Search")
   
 Click the Export Results Table button to download your data.
 
-<<image>>
+![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/vhmml_dp_export.PNG "Export")
   
 Say yes to download.
 
-<<image>>
+![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/vhmml_dp_export_confirm.PNG "Confirm")
 
 # Using Python on a MAC
 
