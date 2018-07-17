@@ -50,7 +50,7 @@ Then you can open your CSV
 
 ![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/dp_mac_csv.png "Open CSV file")
 
-Note that you should read the open in CSV to EXCEL guide to understand unicode and Excel.
+Note that you should read [the open in CSV to EXCEL guide](http://bit.ly/2mmDyCG) to understand unicode and Excel.
 
 # Using Python on a PC: PythonAnywhere
 
@@ -97,8 +97,6 @@ Navigate to your files, and download your new CSV file using the download icon.
 
 ![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/pa_files_download_csv.PNG "Download CSV")
 
-# Open in Excel.
-
-Note that you should read the open in CSV to EXCEL guide to understand unicode and Excel.
+Finally, open the file in Excel. Note, you should read [the open in CSV to EXCEL guide](http://bit.ly/2mmDyCG) to understand unicode and Excel.
 
 ![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/pa_view_excel.PNG "View Excel")
