@@ -1,7 +1,4 @@
-# vhmml-CSV-Listing-Data
-Create a CSV file from JSON Table Search Data
-
-# Background: vHMML Data Portal and JSON
+# vHMML Data Portal and JSON
 
 [vHMML Data Portal](https://www.vhmml.org/dataPortal) makes it possible for you to create a custom dataset for personal research or for digital humanities projects. Choose your own search criteria and then focus your search results using the same tools as in [vHMML Reading Room](https://www.vhmml.org/readingRoom/).
 
@@ -17,4 +14,60 @@ One of the tools you can utilize to work with your vHMML JSON datasets, is this 
 
 Don’t know Python? Don’t worry, you don’t have to! The nice thing about Python is that it is already installed on a Mac. But, if you don’t have a Mac, you can use a service like [Pythonanywhere](https://www.pythonanywhere.com) to run the program instead. 
 
-# [Read the full how-to right now!](https://www.google.com)
+To start, perform your search in the Data Portal.
+
+<<image>>
+  
+Click the Export Results Table button to download your data.
+
+<<image>>
+  
+Say yes to download.
+
+<<image>>
+
+# Using Python on a MAC
+
+Download the Python script you’ll need (https://github.com/vHMML/vhmml-CSV-Listing-Data)
+
+Open a terminal (via Launchpad, Other folder) and navigate to the directory with both files.
+
+This is typically a “cd” command to “change directory”.
+
+Once in the directory that contains both files, type “python” (to run python), then the python script file name, then the json file name. Then hit enter. For example:
+
+Then you can open your CSV
+
+Note that you should read the open in CSV to EXCEL guide to understand unicode and Excel.
+
+# Using Python on a PC: PythonAnywhere
+
+If you don’t have a Mac, or want to run your Python script in the cloud, you can use PythonAnywhere.
+
+First create an account at pythonanywhere.
+
+Then Login. From the Dashboard click FILES in the upper right and create a “vhmml” directory (yellow input box).
+
+Change to the new vhmml directory and click the yellow “Upload a file” button to upload the Python script.
+
+From here you can upload the Python script you downloaded from Github (https://github.com/vHMML/vhmml-CSV-Listing-Data)
+
+Or, you can instead clone the Python script. From the bash command line run: git clone https://github.com/vHMML/vhmml-CSV-Listing-Data.git 
+
+This will close the GitHub repository from vHMML onto your PythonAnywhere account.
+
+Then click the yellow “Upload a file” button to upload your vHMML downloaded dataset.
+
+This should be what your PythonAnywhere will look like. The Dataset JSON and Python program in the same folder.
+
+From here, click the “Open Bash console here” link. This will open something that looks and acts like terminal.
+
+You can run “ls” to “list” your files. Or run the program with “python vhmmlCSVfromListingData.py XXXXX.json”
+
+After the file has been converted, click the hamburger menu and choose Files.
+
+Navigate to your files, and download your new CSV file using the download icon.
+
+# Open in Excel.
+
+Note that you should read the open in CSV to EXCEL guide to understand unicode and Excel.
