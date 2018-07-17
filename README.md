@@ -32,13 +32,23 @@ Say Yes to download.
 
 Download the Python script you’ll need (https://github.com/vHMML/vhmml-CSV-Listing-Data)
 
+![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/dp_mac_files.png "files")
+
 Open a terminal (via Launchpad, Other folder) and navigate to the directory with both files.
+
+![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/dp_mac_terminal.png "Terminal")
 
 This is typically a “cd” command to “change directory”.
 
+![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/dp_mac_run.png "File list")
+
 Once in the directory that contains both files, type “python” (to run python), then the python script file name, then the json file name. Then hit enter. For example:
 
+![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/dp_mac_files_run.png "files and run")
+
 Then you can open your CSV
+
+![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/dp_mac_csv.png "Open CSV file")
 
 Note that you should read the open in CSV to EXCEL guide to understand unicode and Excel.
 
