@@ -18,7 +18,7 @@ Don’t know Python? Don’t worry, you don’t have to! The nice thing about Py
 
 To start, perform your search in the Data Portal.
 
-![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/vhmml_dp_search.PNG "Search")
+![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/vhmml_dp_search_new_ui.PNG "Search")
   
 Click the Export Table Search Data button to download your data.
 
