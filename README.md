@@ -20,7 +20,7 @@ To start, perform your search in the Data Portal.
 
 ![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/vhmml_dp_search_new_ui.PNG "Search")
   
-Click the Export Table Search Data button to download your data.
+Click the Export Table Search Data button to download your data. Note: The python script only works on Table Search Data. To work with Full Search Data, try one of the other [Data Portal tools](https://github.com/vHMML/vhmml-data-portal-tools). 
 
 ![alt text](https://github.com/vHMML/vhmml-CSV-Listing-Data/blob/master/img/vhmml_dp_export.PNG "Export")
   
